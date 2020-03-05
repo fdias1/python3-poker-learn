@@ -1,5 +1,11 @@
 poker-learn
 ========
+Original project https://github.com/chasembowers/poker-learn
+Just adapted to python3 library treys and fixed some 'print' commands and other minor stuff
+
+
+
+
 
 Machine Learning in No Limit Texas Holdem
 
