@@ -39,7 +39,7 @@ sklearn - library which implements machine learning models
 
 numpy - array manipulation library, dependency for sklearn
 
-deuces - package which evaluates rank of poker hands, included in this project
+treys - package which evaluates rank of poker hands
 
 matplotlib - graphing library, necessary for running demo
 
